@@ -19,5 +19,5 @@
 
 * [What is the output format of the charts?](faq/what-is-the-output-format-of-the-charts.md)
 * [Is my data secure?](faq/is-my-data-secure.md)
-* [Which operating systems and versions of Excel does CutePlots work with?](faq/which-operating-systems-and-versions-of-excel-does-cuteplots-work-with.md)
+* [Which Excel versions are supported?](faq/which-excel-versions-are-supported.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
